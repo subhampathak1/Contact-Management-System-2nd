@@ -1,0 +1,8 @@
+com\contactmanager\util\DatabaseConnection.class
+com\contactmanager\view\ContactManagerGUI$1.class
+com\contactmanager\util\ContactManagerException.class
+com\contactmanager\view\ContactManagerGUI.class
+com\contactmanager\controller\ContactDAO.class
+com\contactmanager\dao\ContactDAO.class
+com\contactmanager\model\Contact.class
+com\contactmanager\dao\DatabaseConfig.class
